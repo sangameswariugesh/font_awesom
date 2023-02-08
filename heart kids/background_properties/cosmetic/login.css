@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://th.bing.com/th?id=OIP.P8wqpCxy4oBzEyy0DUodtAHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2");
+}
+.container{
+    background-image: url("https://www.bing.com/images/search?q=Cosmetic%20Web%20Page&form=IQFRBA&id=F04D351C14C51EE2BEE9576738057313E765121D&first=1&disoverlay=1");
+    background-color: violet;
+     padding: 100px;
+     margin:right auto;
+     border: 6px solid rgb(140, 80, 140);
+    float:left}   
+   

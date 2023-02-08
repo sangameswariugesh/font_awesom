@@ -1,0 +1,308 @@
+/* feb5-2023 first task
+.container{
+    background-color: blueviolet;
+    width: 50%;
+    height:35em;
+    float: left;
+    color: white;
+}
+.div1{
+    text-align: center;
+    margin-top: 30%;
+}
+.div2{
+    text-align: center;
+    margin-top: 5%;
+}
+.div3{
+    text-align: center;
+    margin-top: 5%;
+}
+.container1{
+    width: 50%;
+    height:35em;
+    float:right;
+    color: black;
+    text-align: center;
+    margin-top: 10%;
+}
+.div4{
+    color: blue;
+}
+.div10{
+   color: blue;
+}
+.div7{
+    line-height: 4px;
+    color: blue;
+}
+feb5-2023 second task */
+/* body{
+    background-color: brown;
+}
+.container{
+    background-color: blueviolet;
+    width: 50%;
+    height:35em;
+    float:left;
+    color: white;
+    paddind:100px
+}
+    .div1{
+        padding:10px
+    }
+input{
+    margin:20px;
+    height:50px;
+    border:none;
+    background-color: transparent;
+    border-bottom: 2px solid black;
+    outline:none;
+   }
+   button{
+    width:500px;
+    height: 50px;
+    background-color: aqua;
+   }
+   .img1{
+    float: right;
+    position:absolute;
+    top: 8px;
+    left: 615px;
+    width: 50%;
+    height:35em;
+    border: 1px solid black;
+   }
+  ::placeholder{
+    color: white;
+   }
+   feb5 2023-3 task */
+   /* body{background-image: 
+           url("https://th.bing.com/th/id/OIP.idXQdFCqitVQmv6DjLqCSAHaFj?pid=ImgDet&w=193&h=144&c=7&dpr=1.5");
+        background-repeat:no repeat;
+        background-size: cover;
+   }
+   .div{
+    background-color: transparent;
+    width:450px;
+    height: 500px;
+    margin-left:400px;
+    padding-left: 50px;
+    box-shadow: 5px 7px 10px 20px transparent;
+    color: aliceblue; 
+   } */
+  /* body{background-color: gray;
+  }
+  ol li{
+    margin-left: 20px;
+    list-style-type: none;
+    display: inline;
+    width: 150px;
+    height:100px;
+
+  }
+  .div{
+    background-color:white;
+   margin-bottom: 80px;
+    border-radius:30px;
+    float:right
+    padding-top: 10px;
+    
+  }
+  h1{
+    margin-left: 20px;
+  }
+  button{
+    background-color: brown;
+    color:azure;
+    width:80px
+    border-radius:30px;
+  }
+  .img{
+    width:800px;
+    height: 400px;
+  } */
+  /* feb6 firstlay out
+  body{
+    background-color:gray;
+    margin-left:120px;
+    margin-right:120px;
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+    margin:20px;
+}
+ul{
+padding:15px;
+}
+.div1{
+     height:50px;
+     width:80%;
+}
+.div2{
+    height:50px;
+    width:100%;
+    background-color:white; 
+    border-radius:30px;
+}
+.li{
+    float:right;
+    color:white;
+}
+
+.txt{
+    font-size: 30px;
+    color:white;
+}
+.div3{
+    float:left;
+    height:500px;
+    width:600px;
+    padding-top:150px;
+}
+img{
+    height:700px;
+    width:300px;
+    position:absolute;
+    top:4em;
+    z-index:-1;
+}
+.font1{
+    color: rgb(163, 27, 131);
+    font-family:cursive;
+    font-size: 20px;
+}
+.font2{
+    color:white;
+    font-family:cursive;
+    font-size: 21px;
+}
+span{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+button{
+    background-color: rgb(143, 19, 116);
+    border-color:rgb(102, 25, 89);
+    border-top-left-radius:10px;
+    border-bottom-right-radius: 10px;
+    height:40px;
+    width:100px;
+    color: white;
+    font-size:15px;
+}
+.prop1{
+    color:rgb(84, 140, 175);
+    font-size:20px;
+    position:absolute;
+    top: 98px;
+}
+.prop2{
+    color:rgb(107, 107, 39);
+    font-size:20px;
+    position:absolute;
+    top: 98px;
+}
+.prop3{
+    color:rgb(106, 108, 223);
+    font-size:20px;
+    position:absolute;
+    top: 98px;
+}
+feb7 first */
+/* body{
+    background-image:url("https://th.bing.com/th/id/OIP.j-NalQ0IH909G1vCvi_4_AHaEK?w=308&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7");
+    background-image: no repeat;
+    background-size: cover;
+    background-image: transferent;
+    opacity: 0.9;
+    z-index: -1;
+}
+.img{
+    width:50px;
+    height:50px;
+    margin-left: 10px;
+}
+.div{
+    background-color:transparent ;
+    color: antiquewhite;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.but2{background-color: transparent;
+    back
+    
+}
+feb-8 lay out */
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.ybKRj9NJKi49Fx2wiDaLnwHaEo?pid=ImgDet&rs=1');
+    background-image: no reapeat;
+    background-size: cover;
+}
+.icon{
+    font-size: 25px;
+    padding-top:25px;
+}
+.div1{
+    background-color: rgb(237, 155, 204);
+    width: 15%;
+    height: 20%;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 50px;
+    float: left;
+    box-shadow:5px 5px 20px 15px rgb(202, 22, 166);
+}
+.yellow{
+    width: 160 px;
+    height: 12px;
+    background-color: rgb(255, 74, 179);
+    margin: 0 auto;
+}
+.div2{
+    width: 180px;
+    padding: 10px;
+}
+h1{
+    float:left;
+    margin-right: 20px;
+}
+.div3{
+    float: left;
+    background-color: rgb(33, 31, 31);
+    width: 15%;
+    border-radius: 30px;
+    height: 20%;
+    padding: 20px;
+    margin: 50px;
+    box-shadow:5px 5px 20px 15px rgb(35, 32, 32);
+    color:azure;
+}
+.blue{
+    width: 160px;
+    height: 12px;
+    background-color:rgb(46, 46, 48);
+    margin: 0 auto;
+}
+.div4{
+    float: left;
+    background-color:rgb(78, 171, 233);
+    width: 15%;
+    border-radius: 30px;
+    height: 20%;
+    padding: 20px;
+    margin: 50px;
+    box-shadow:5px 5px 20px 15px rgb(99, 85, 221);
+}
+.green{
+    width: 160px;
+    height: 12px;
+    background-color:rgb(107, 105, 210);
+    margin: 0 auto;
+}
+.con{
+    margin-left: 16%;
+    margin-top: 12%;
+}

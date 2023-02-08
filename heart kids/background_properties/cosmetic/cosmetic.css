@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/z/skin-care-product-natural-cosmetic-flat-lay-skin-care-product-natural-cosmetic-flat-lay-image-pink-background-148874012.jpg);
+}
+.container{
+    background-color: pink;
+     padding: 100px;
+     margin:right auto;
+     border: 6px solid rgb(140, 80, 140);
+    float:left}   
+.id{padding: bottom;
+}
+.table{
+    padding: 10 px;
+}
